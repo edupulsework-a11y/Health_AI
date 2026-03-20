@@ -1,0 +1,5 @@
+# ninja log v5
+18	103	7957072378425644	CMakeFiles/iris_method_channel.dir/dart-sdk/include/dart_api_dl.c.o	da1ec07fdbd09ee4
+0	814	7957072385462905	CMakeFiles/iris_method_channel.dir/iris_life_cycle_observer.cc.o	bce66c65de521a00
+10	1132	7957072388645767	CMakeFiles/iris_method_channel.dir/iris_event.cc.o	48e320207c505e92
+1133	1676	7957072391102810	F:/nutreva/build/iris_method_channel/intermediates/cxx/Debug/2h4q52x4/obj/armeabi-v7a/libiris_method_channel.so	77a9d67695736920

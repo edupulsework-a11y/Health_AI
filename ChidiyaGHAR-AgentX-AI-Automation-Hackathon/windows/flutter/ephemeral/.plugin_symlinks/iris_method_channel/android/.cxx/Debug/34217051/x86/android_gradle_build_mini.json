@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "C:\\Users\\Rudraksh\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\iris_method_channel-2.2.4\\src\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\Rudraksh\\AppData\\Local\\Android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\Rudraksh\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\iris_method_channel-2.2.4\\android\\.cxx\\Debug\\34217051\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\Rudraksh\\AppData\\Local\\Android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\Rudraksh\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\iris_method_channel-2.2.4\\android\\.cxx\\Debug\\34217051\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "iris_method_channel::@6890427a1f51a3e7e1df": {
+      "artifactName": "iris_method_channel",
+      "abi": "x86",
+      "output": "C:\\Users\\Rudraksh\\Desktop\\see\\ChidiyaGHAR-AgentX-AI-Automation-Hackathon\\build\\iris_method_channel\\intermediates\\cxx\\Debug\\34217051\\obj\\x86\\libiris_method_channel.so",
+      "runtimeFiles": []
+    }
+  }
+}

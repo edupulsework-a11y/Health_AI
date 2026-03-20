@@ -1,0 +1,17 @@
+[
+{
+  "directory": "C:/Users/Rudraksh/AppData/Local/Pub/Cache/hosted/pub.dev/iris_method_channel-2.2.4/android/.cxx/Debug/34217051/x86",
+  "command": "C:\\Users\\Rudraksh\\AppData\\Local\\Android\\Sdk\\ndk\\27.0.12077973\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android21 --sysroot=C:/Users/Rudraksh/AppData/Local/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DDART_SHARED_LIB -Diris_method_channel_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles\\iris_method_channel.dir\\iris_event.cc.o -c C:\\Users\\Rudraksh\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\iris_method_channel-2.2.4\\src\\iris_event.cc",
+  "file": "C:\\Users\\Rudraksh\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\iris_method_channel-2.2.4\\src\\iris_event.cc"
+},
+{
+  "directory": "C:/Users/Rudraksh/AppData/Local/Pub/Cache/hosted/pub.dev/iris_method_channel-2.2.4/android/.cxx/Debug/34217051/x86",
+  "command": "C:\\Users\\Rudraksh\\AppData\\Local\\Android\\Sdk\\ndk\\27.0.12077973\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android21 --sysroot=C:/Users/Rudraksh/AppData/Local/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DDART_SHARED_LIB -Diris_method_channel_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles\\iris_method_channel.dir\\iris_life_cycle_observer.cc.o -c C:\\Users\\Rudraksh\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\iris_method_channel-2.2.4\\src\\iris_life_cycle_observer.cc",
+  "file": "C:\\Users\\Rudraksh\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\iris_method_channel-2.2.4\\src\\iris_life_cycle_observer.cc"
+},
+{
+  "directory": "C:/Users/Rudraksh/AppData/Local/Pub/Cache/hosted/pub.dev/iris_method_channel-2.2.4/android/.cxx/Debug/34217051/x86",
+  "command": "C:\\Users\\Rudraksh\\AppData\\Local\\Android\\Sdk\\ndk\\27.0.12077973\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=i686-none-linux-android21 --sysroot=C:/Users/Rudraksh/AppData/Local/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DDART_SHARED_LIB -Diris_method_channel_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -o CMakeFiles\\iris_method_channel.dir\\dart-sdk\\include\\dart_api_dl.c.o -c C:\\Users\\Rudraksh\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\iris_method_channel-2.2.4\\src\\dart-sdk\\include\\dart_api_dl.c",
+  "file": "C:\\Users\\Rudraksh\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\iris_method_channel-2.2.4\\src\\dart-sdk\\include\\dart_api_dl.c"
+}
+]

@@ -1,0 +1,3 @@
+C:/Users/Rudraksh/AppData/Local/Pub/Cache/hosted/pub.dev/iris_method_channel-2.2.4/android/.cxx/Debug/5rh3hq1s/armeabi-v7a/CMakeFiles/iris_method_channel.dir
+C:/Users/Rudraksh/AppData/Local/Pub/Cache/hosted/pub.dev/iris_method_channel-2.2.4/android/.cxx/Debug/5rh3hq1s/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Rudraksh/AppData/Local/Pub/Cache/hosted/pub.dev/iris_method_channel-2.2.4/android/.cxx/Debug/5rh3hq1s/armeabi-v7a/CMakeFiles/rebuild_cache.dir

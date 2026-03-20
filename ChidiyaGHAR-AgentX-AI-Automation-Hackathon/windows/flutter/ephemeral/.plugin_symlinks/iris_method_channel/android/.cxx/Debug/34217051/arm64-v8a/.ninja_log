@@ -1,0 +1,5 @@
+# ninja log v5
+0	445	7957091203204238	CMakeFiles/iris_method_channel.dir/dart-sdk/include/dart_api_dl.c.o	96984d705fd571d3
+6	7424	7957091272983257	CMakeFiles/iris_method_channel.dir/iris_life_cycle_observer.cc.o	29a089844869b51f
+11	7806	7957091276663633	CMakeFiles/iris_method_channel.dir/iris_event.cc.o	85ccbc70b60c3857
+7807	7907	7957091277825372	C:/Users/Rudraksh/Desktop/see/ChidiyaGHAR-AgentX-AI-Automation-Hackathon/build/iris_method_channel/intermediates/cxx/Debug/34217051/obj/arm64-v8a/libiris_method_channel.so	a7a7b60113ee345d
