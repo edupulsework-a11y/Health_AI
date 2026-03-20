@@ -1,0 +1,21 @@
+﻿Analyzing Nutreva...                                            
+
+   info - Parameter 'message' could be a super parameter - lib\core\error\failures.dart:12:9 - use_super_parameters
+   info - Parameter 'message' could be a super parameter - lib\core\error\failures.dart:16:9 - use_super_parameters
+   info - Parameter 'message' could be a super parameter - lib\core\error\failures.dart:20:9 - use_super_parameters
+   info - Parameter 'message' could be a super parameter - lib\core\error\failures.dart:24:9 - use_super_parameters
+   info - Parameter 'message' could be a super parameter - lib\core\error\failures.dart:28:9 - use_super_parameters
+  error - The argument type 'CardTheme' can't be assigned to the parameter type 'CardThemeData?'.  - lib\core\theme\app_theme.dart:21:18 - argument_type_not_assignable
+  error - The argument type 'CardTheme' can't be assigned to the parameter type 'CardThemeData?'.  - lib\core\theme\app_theme.dart:44:18 - argument_type_not_assignable
+  error - Target of URI doesn't exist: 'package:nutreva/features/auth/domain/models/user_model.freezed.dart' - lib\features\auth\domain\models\user_model.dart:4:6 - uri_does_not_exist
+  error - Target of URI hasn't been generated: 'package:nutreva/features/auth/domain/models/user_model.g.dart' - lib\features\auth\domain\models\user_model.dart:5:6 - uri_has_not_been_generated
+  error - The name '_UserModel' isn't a type and can't be used in a redirected constructor - lib\features\auth\domain\models\user_model.dart:17:8 - redirect_to_non_class
+  error - The method '_$UserModelFromJson' isn't defined for the type 'UserModel' - lib\features\auth\domain\models\user_model.dart:19:60 - undefined_method
+  error - Target of URI doesn't exist: '../../../core/error/failures.dart' - lib\features\auth\domain\repositories\auth_repository.dart:1:8 - uri_does_not_exist
+  error - The name 'Failure' isn't a type, so it can't be used as a type argument - lib\features\auth\domain\repositories\auth_repository.dart:6:28 - non_type_as_type_argument
+  error - The name 'Failure' isn't a type, so it can't be used as a type argument - lib\features\auth\domain\repositories\auth_repository.dart:7:28 - non_type_as_type_argument
+  error - The name 'Failure' isn't a type, so it can't be used as a type argument - lib\features\auth\domain\repositories\auth_repository.dart:8:28 - non_type_as_type_argument
+  error - The name 'Failure' isn't a type, so it can't be used as a type argument - lib\features\auth\domain\repositories\auth_repository.dart:9:23 - non_type_as_type_argument
+  error - The name 'Failure' isn't a type, so it can't be used as a type argument - lib\features\auth\domain\repositories\auth_repository.dart:10:23 - non_type_as_type_argument
+  error - The name 'MyApp' isn't a class - test\widget_test.dart:16:35 - creation_with_non_type
+

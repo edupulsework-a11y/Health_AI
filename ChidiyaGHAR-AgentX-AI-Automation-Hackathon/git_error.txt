@@ -1,0 +1,103 @@
+﻿git : remote: error: GH013: 
+Repository rule violations 
+found for refs/heads/main.     
+   
+At line:1 char:1
++ git push -u origin main 2>&1 
+| Out-File -FilePath 
+git_error.txt -Enco ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          :  
+   NotSpecified: (remote: err  
+  or: ...s/main.        :Str   
+ ing) [], RemoteException
+    + FullyQualifiedErrorId :  
+   NativeCommandError
+ 
+remote: 
+remote: - GITHUB PUSH 
+PROTECTION        
+remote:   ΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇö
+ΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓ
+ÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇ
+öΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇö
+ΓÇöΓÇöΓÇö        
+remote:     Resolve the 
+following violations before 
+pushing again        
+remote: 
+remote:     - Push cannot 
+contain secrets        
+remote: 
+remote:             
+remote:      (?) Learn how to 
+resolve a blocked push        
+remote:      https://docs.githu
+b.com/code-security/secret-scan
+ning/working-with-secret-scanni
+ng-and-push-protection/working-
+with-push-protection-from-the-c
+ommand-line#resolving-a-blocked
+-push        
+remote:             
+remote:             
+remote:       ΓÇöΓÇö OpenAI 
+API Key ΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇ
+öΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇö
+ΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓ
+ÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇö        
+remote:        locations:      
+  
+remote:          - commit: d500
+d327cd1dd973f121c31505c58358339
+47e15        
+remote:            path: 
+lib/core/api_keys.dart:4       
+ 
+remote:             
+remote:        (?) To push, 
+remove secret from commit(s) 
+or follow this URL to allow 
+the secret.        
+remote:        https://github.c
+om/RudrakshRakeshZodage/Nutreva
+/security/secret-scanning/unblo
+ck-secret/39Nb0neZLeH5rHkeU7cIH
+Y5NZei        
+remote:             
+remote:             
+remote:       ΓÇöΓÇö Groq API 
+Key ΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇö
+ΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓ
+ÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇ
+öΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇöΓÇö      
+  
+remote:        locations:      
+  
+remote:          - commit: d500
+d327cd1dd973f121c31505c58358339
+47e15        
+remote:            path: 
+lib/core/api_keys.dart:7       
+ 
+remote:             
+remote:        (?) To push, 
+remove secret from commit(s) 
+or follow this URL to allow 
+the secret.        
+remote:        https://github.c
+om/RudrakshRakeshZodage/Nutreva
+/security/secret-scanning/unblo
+ck-secret/39Nb0lWYdS5VzFMYe6uXD
+dVRJvW        
+remote:             
+remote: 
+remote: 
+To https://github.com/RudrakshR
+akeshZodage/Nutreva.git
+ ! [remote rejected] main -> 
+main (push declined due to 
+repository rule violations)
+error: failed to push some 
+refs to 'https://github.com/Rud
+rakshRakeshZodage/Nutreva.git'
